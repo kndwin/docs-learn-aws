@@ -1,0 +1,14 @@
+{
+  "docs": {
+    "Overview": ["introduction", "table-of-content"],
+    "Content": [
+      "eb-content",
+      "eb-follow"
+    ],
+    "ECS": [],
+    "Fargate": []
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
